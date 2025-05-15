@@ -11,7 +11,7 @@ int main()
     std::string nombre;
     std::cout << "Te damos la bienvenida a (Nombre del juego)\n";
     std::cout << "Por favor introduzca el nombre de su personaje: \n";
-    std::cin >> nombre;
+    std::getline(std::cin, nombre);
     std::cout << "Perfecto!!!" << nombre << "\nQue nombre mas epico!!!\n";
     std::cout << "Muy bien ahora si podemos empezar\n";
     std::cout << "Los acontecimientos de esta historia tienen lugar en una ciudad como cualquier otra, en un dia como cualquier otro, en el año 2058.\n";
@@ -20,6 +20,10 @@ int main()
     std::cout << "Ya que como cada anio, vas a dejarle flores a tu siempre amada pareja y a platicar con ella de como te esta yendo en la vida.\n";
     std::cout << "Y aunque ya no estas en duelo, es una actividad que sueles para no olvidar a esa persona tan amada.\n";
     std::cout << "El trafico esta muy pesado, y quieres ver por que no avanza, asi que te bajas de tu auto a investigaa.\n";
-    std::cout << "Entonces encuentras el problema."
+    std::cout << "Entonces encuentras el problema. Un camion de productos quimicos trae ponchada una de sus llantantas, por lo que estan desviandoel trafico.\n";
+    std::cout << "Una vez que has visto el problema te devuelves a tu coche, pero en ese momento, se escuchan voces diciendo 'Cuidado!!'. Y en ese momento...\n";
+    // (Aqui voy a tratar de meter un audio de un accidente)
+    std::cout << "Una camioneta impacto con el camion, se alcanza claramente a ver como los quimicos se derraman y al mismo tiempo esta saliendo humo del motor.\n";
+    std::cout << "Toda la gente se encuentra en shock y asustada\n";
 }
 

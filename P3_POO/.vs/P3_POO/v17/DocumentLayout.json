@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\NO_BORRAR__PLOX_Banano_Proyecto\\P3_POO\\P3_POO\\",
+  "WorkspaceRootPath": "C:\\Users\\ALUMNO\\Desktop\\No borrar carpeta del Banano\\poo\\Proyecto_Final\\P3_POO\\P3_POO\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E00C9BF0-E497-45A3-B9D7-919F5889FBD1}|P3_POO.vcxproj|C:\\NO_BORRAR__PLOX_Banano_Proyecto\\P3_POO\\P3_POO\\P3_POO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E00C9BF0-E497-45A3-B9D7-919F5889FBD1}|P3_POO.vcxproj|C:\\Users\\ALUMNO\\Desktop\\No borrar carpeta del Banano\\poo\\Proyecto_Final\\P3_POO\\P3_POO\\P3_POO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{E00C9BF0-E497-45A3-B9D7-919F5889FBD1}|P3_POO.vcxproj|solutionrelative:P3_POO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,24 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "P3_POO.cpp",
-              "DocumentMoniker": "C:\\NO_BORRAR__PLOX_Banano_Proyecto\\P3_POO\\P3_POO\\P3_POO.cpp",
+              "DocumentMoniker": "C:\\Users\\ALUMNO\\Desktop\\No borrar carpeta del Banano\\poo\\Proyecto_Final\\P3_POO\\P3_POO\\P3_POO.cpp",
               "RelativeDocumentMoniker": "P3_POO.cpp",
-              "ToolTip": "C:\\NO_BORRAR__PLOX_Banano_Proyecto\\P3_POO\\P3_POO\\P3_POO.cpp",
+              "ToolTip": "C:\\Users\\ALUMNO\\Desktop\\No borrar carpeta del Banano\\poo\\Proyecto_Final\\P3_POO\\P3_POO\\P3_POO.cpp",
               "RelativeToolTip": "P3_POO.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-14T15:54:16.252Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
